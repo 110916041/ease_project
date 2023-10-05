@@ -40,4 +40,10 @@ PYTHON：
 
 一、剪刀石頭布
 
+可以選擇剪刀、石頭、布其一，並與電腦進行猜拳
+
+ ![image](https://github.com/110916041/ease_project/blob/458a86abdd6d29ca2287974cb87a9f92093c9c97/image/rock.png)
+
+
+
 
